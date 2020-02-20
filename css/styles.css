@@ -88,6 +88,11 @@ body {
     color: #000000;
 }
 
+.active {
+    background-color: #e082a8;
+    border-;
+}
+
 /** Carousel**/
 
 .carousel-caption h3 {
@@ -342,5 +347,8 @@ aside {
 .formulario-contacto {
     border: 2px solid #9a9a9a;
     background-color: #ffffff;
+    
 }
+
+
 
